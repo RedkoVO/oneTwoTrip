@@ -1,0 +1,13 @@
+.form-group {
+    margin: 10px;
+}
+
+.form-group select {
+    margin: 0 20px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.form-group select:focus {
+    outline: none;
+}
